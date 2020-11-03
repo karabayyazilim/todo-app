@@ -1,5 +1,8 @@
 # todoapp
 
+# Screenshot
+<img src="https://www.karabayyazilim.com/storage/files/shares/todoapp.jpg" height="500">
+
 ## Project setup
 ```
 npm install

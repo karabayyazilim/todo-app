@@ -1,7 +1,7 @@
 # todoapp
 
 # Screenshot
-| <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp.jpg" width="250"> | <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-2.jpg" width="250"> | <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-3.jpg" width="250"> |
+| <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp.jpg" width="300"> | <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-2.jpg" width="300"> | <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-3.jpg" width="300"> |
 
 ## Project setup
 ```

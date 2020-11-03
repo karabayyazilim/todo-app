@@ -2,6 +2,8 @@
 
 # Screenshot
 <img src="https://www.karabayyazilim.com/storage/files/shares/todoapp.jpg" height="500">
+<img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-2.jpg" height="500">
+<img src="https://www.karabayyazilim.com/storage/files/shares/todoapp-3.jpg" height="500">
 
 ## Project setup
 ```
